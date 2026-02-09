@@ -97,7 +97,7 @@ This lack of visibility leads to **longer patient waiting times** and difficulty
 ## 7. Data Model  
 
 ### Star Schema  
-![Star Schema](./assets/starschema.png)
+![Star Schema](./assests/starschema.png)
 
 **Dimensions**  
 - **Patient Dimension**: Patient demographics (with SCD2 history tracking).  
