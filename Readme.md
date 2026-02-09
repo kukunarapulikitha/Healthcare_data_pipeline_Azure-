@@ -69,7 +69,7 @@ This lack of visibility leads to **longer patient waiting times** and difficulty
 ## 6. Architecture  
 
 ### Pipeline Flow  
-![Pipeline Architecture](./assets/image.jpg)
+![Pipeline Architecture](./assests/image.jpg)
 
 1. **Event Producer (Python script)**  
    - Simulates patient admission/discharge events.  
@@ -97,7 +97,7 @@ This lack of visibility leads to **longer patient waiting times** and difficulty
 ## 7. Data Model  
 
 ### Star Schema  
-![Star Schema](./assets/starschema.jpg)
+![Star Schema](./assests/starschema.jpg)
 
 **Dimensions**  
 - **Patient Dimension**: Patient demographics (with SCD2 history tracking).  
